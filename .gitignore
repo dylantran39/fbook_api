@@ -1,3 +1,4 @@
+<<<<<<< 9a7f5202a4ac73254562f09f983f3dd2d1f5a2d1
 vendor/
 node_modules/
 npm-debug.log
@@ -18,3 +19,19 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+=======
+/node_modules
+/public/storage
+/public/assets
+/storage/files
+/storage/debugbar
+/storage/oauth-private.key
+/storage/oauth-public.key
+/vendor
+/.idea
+/dump.rdb
+Homestead.json
+Homestead.yaml
+.env
+/storage/*
+>>>>>>> Init Project
