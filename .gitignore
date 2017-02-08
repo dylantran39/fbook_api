@@ -32,6 +32,7 @@ Homestead.json
 /dump.rdb
 Homestead.json
 Homestead.yaml
+composer.lock
 .env
 /storage/*
 >>>>>>> Init Project
