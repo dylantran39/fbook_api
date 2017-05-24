@@ -83,6 +83,10 @@
                     Laravel
                 </div>
 
+                <a  href="{{ url('redirect/framgia') }}">
+                    <span>Login</span>
+                </a>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
